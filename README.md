@@ -35,11 +35,6 @@ This is an end of term project of CS319 at the University of Wisconsin - Madison
 | `fare_inc_x3paxsh`  | The percentage of passengers paying three times minimum fare |
 | `price_category`    | **Derived Column**, Fare category (e.g., Low, Medium, High fare levels) |
 | `demand_level`      | **Derived Column**, Demand level for the flight (e.g., High, Medium, Low demand) |
-- `AA`: American Airlines.
-- `AS`: Alaska Airlines .
-- `F9`: Frontier Airlines.
-- `G4`: Allegiant Air.
-- `UA`: United Airlines.
 
 ## ☞ Summary
 | **Category**        | **Airlines**                           | **Key Observations**                                                                                                                                                                |
