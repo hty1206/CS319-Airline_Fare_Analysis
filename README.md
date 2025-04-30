@@ -1,4 +1,4 @@
-# ✈︎␟ CS319-Airline_Fare_Analysis
+# ␟✈️ CS319-Airline_Fare_Analysis
 ## ☞ Introduction  
 This is an end of term project of CS319 at the University of Wisconsin - Madison. I chose this project because I love traveling, but I've noticed that flight ticket prices can fluctuate quite a bit. This sparked my interest in understanding these fluctuations, and I want to dig deeper into analyzing fare trends and identifying the factors that influence ticket prices.
 
