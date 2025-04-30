@@ -14,6 +14,7 @@ This is an end of term project of CS319 at the University of Wisconsin - Madison
 3. Data Collection and Preprocessing
 4. Exploratory Data Analysis (EDA)
 5. Data Visualization [document here](CS319_code_Hu.ipynb)
+6. Summary
 
 ## ☞ Data Overview  
 | Column Name         | Description                                                |
