@@ -12,7 +12,8 @@ This is an end of term project of CS319 at the University of Wisconsin - Madison
 1. Project Planning and Objective Definition
 2. Fetching the Data
 3. Data Collection and Preprocessing
-4. Data Visualization [document here](CS319_code_Hu.ipynb)
+4. Exploratory Data Analysis (EDA)
+5. Data Visualization [document here](CS319_code_Hu.ipynb)
 
 ## ☞ Data Overview  
 | Column Name         | Description                                                |
