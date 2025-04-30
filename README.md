@@ -44,8 +44,5 @@ This is an end of term project of CS319 at the University of Wisconsin - Madison
 | **Low-Priced Airlines** | AS (mid-range), F9, G4                 | - Lower-priced tickets sell more **(Q19)** <br> - Most of the top ten cheapest tickets in 2024 were sold by low-priced airlines (G4), with a few exceptions from UA (non-interstate routes like FL-FL & TX-TX) **(Q11)** <br> - Less affected or nearly no impact during the pandemic **(Q13)** <br> - Price increases for low-priced airlines are more stable compared to high-priced airlines **(Q16 & Q17)** |
 | **Fare Trends**       | Overall Fare Changes                    | - In 2020 and 2021, ticket prices averaged lower **(Q7)**, but the proportion of passengers paying three times the minimum fare increased **(Q21)**, possibly because passengers perceived even the higher three-times fares as cheaper compared to previous years and opted for upgrades, etc. <br> - In 2024, both the most expensive and cheapest routes were influenced by the pandemic **(Q10 & Q12)** <br> - First and second quarters had the highest fares, followed by the third quarter, with the fourth quarter being the cheapest, but the difference is minimal **(Q6 & Q7)** <br>- In 2024, it can be observed that, overall, ticket prices tend to increase as demand rises **(Q20)**|  
 
-## ☞ Data Sources
-🔗 https://data.transportation.gov/Aviation/Consumer-Airfare-Report-Table-5-Detailed-Fare-Info/bkh6-tj42/about_data
-
 ## ☞ For More Detailed Information  
 For more detailed information on the project, please see the [document here](CS319_code_Hu.ipynb).
